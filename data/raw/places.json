@@ -1,0 +1,152 @@
+[
+    {
+        "id": "P001",
+        "name": "Baga Beach",
+        "city": "Goa",
+        "type": "Beach",
+        "rating": 4.4,
+        "price": 500,
+        "description": "Baga Beach is one of the most popular beaches in North Goa. It is known for water sports, beach shacks, nightlife and a lively atmosphere.",
+        "best_for": [
+            "friends",
+            "couples",
+            "nightlife"
+        ],
+        "duration": "3-4 hours"
+    },
+    {
+        "id": "P002",
+        "name": "Calangute Beach",
+        "city": "Goa",
+        "type": "Beach",
+        "rating": 4.3,
+        "price": 300,
+        "description": "Calangute Beach is a large and popular beach in North Goa with water activities, restaurants and shopping nearby.",
+        "best_for": [
+            "families",
+            "couples",
+            "friends"
+        ],
+        "duration": "2-4 hours"
+    },
+    {
+        "id": "P003",
+        "name": "Fort Aguada",
+        "city": "Goa",
+        "type": "Historical",
+        "rating": 4.5,
+        "price": 100,
+        "description": "Fort Aguada is a historic Portuguese fort overlooking the Arabian Sea. It offers scenic views and is a good destination for history and photography.",
+        "best_for": [
+            "families",
+            "couples",
+            "photography"
+        ],
+        "duration": "2 hours"
+    },
+    {
+        "id": "P004",
+        "name": "Dudhsagar Waterfalls",
+        "city": "Goa",
+        "type": "Nature",
+        "rating": 4.7,
+        "price": 1500,
+        "description": "Dudhsagar Waterfalls is a spectacular waterfall surrounded by forests. It is popular for nature experiences, trekking and adventure.",
+        "best_for": [
+            "friends",
+            "adventure",
+            "nature"
+        ],
+        "duration": "Full day"
+    },
+    {
+        "id": "P005",
+        "name": "Anjuna Beach",
+        "city": "Goa",
+        "type": "Beach",
+        "rating": 4.2,
+        "price": 400,
+        "description": "Anjuna Beach is known for a relaxed atmosphere, rocky coastline, sunset views and nearby nightlife.",
+        "best_for": [
+            "couples",
+            "friends",
+            "nightlife"
+        ],
+        "duration": "3 hours"
+    },
+    {
+        "id": "P006",
+        "name": "Marine Drive",
+        "city": "Mumbai",
+        "type": "Landmark",
+        "rating": 4.6,
+        "price": 0,
+        "description": "Marine Drive is a famous seaside boulevard in Mumbai known for sunset views, evening walks and the city's iconic skyline.",
+        "best_for": [
+            "couples",
+            "families",
+            "photography"
+        ],
+        "duration": "2-3 hours"
+    },
+    {
+        "id": "P007",
+        "name": "Gateway of India",
+        "city": "Mumbai",
+        "type": "Historical",
+        "rating": 4.5,
+        "price": 0,
+        "description": "The Gateway of India is one of Mumbai's most recognizable landmarks and is located near the waterfront.",
+        "best_for": [
+            "families",
+            "couples",
+            "history"
+        ],
+        "duration": "1-2 hours"
+    },
+    {
+        "id": "P008",
+        "name": "Elephanta Caves",
+        "city": "Mumbai",
+        "type": "Historical",
+        "rating": 4.4,
+        "price": 600,
+        "description": "Elephanta Caves are ancient rock-cut caves containing important sculptures and temples. Visitors reach the island by ferry from Mumbai.",
+        "best_for": [
+            "history",
+            "families",
+            "photography"
+        ],
+        "duration": "Half day"
+    },
+    {
+        "id": "P009",
+        "name": "Lalbagh Botanical Garden",
+        "city": "Bengaluru",
+        "type": "Nature",
+        "rating": 4.5,
+        "price": 50,
+        "description": "Lalbagh Botanical Garden is a large green space in Bengaluru featuring diverse plants, walking paths and a historic glasshouse.",
+        "best_for": [
+            "families",
+            "nature",
+            "couples"
+        ],
+        "duration": "2-3 hours"
+    },
+    {
+        "id": "P010",
+        "name": "Cubbon Park",
+        "city": "Bengaluru",
+        "type": "Nature",
+        "rating": 4.5,
+        "price": 0,
+        "description": "Cubbon Park is a large urban park in Bengaluru suitable for walking, relaxing and spending time outdoors.",
+        "best_for": [
+            "families",
+            "couples",
+            "nature"
+        ],
+        "duration": "2 hours"
+    }
+]

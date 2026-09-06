@@ -1,0 +1,74 @@
+[
+    {
+        "id": "F001",
+        "airline": "IndiGo",
+        "from": "Kolkata",
+        "to": "Goa",
+        "price": 5500,
+        "duration": "3h 00m",
+        "stops": 0
+    },
+    {
+        "id": "F002",
+        "airline": "Air India Express",
+        "from": "Kolkata",
+        "to": "Goa",
+        "price": 6200,
+        "duration": "3h 10m",
+        "stops": 0
+    },
+    {
+        "id": "F003",
+        "airline": "IndiGo",
+        "from": "Mumbai",
+        "to": "Goa",
+        "price": 3000,
+        "duration": "1h 15m",
+        "stops": 0
+    },
+    {
+        "id": "F004",
+        "airline": "Air India",
+        "from": "Mumbai",
+        "to": "Goa",
+        "price": 3500,
+        "duration": "1h 20m",
+        "stops": 0
+    },
+    {
+        "id": "F005",
+        "airline": "IndiGo",
+        "from": "Delhi",
+        "to": "Goa",
+        "price": 6500,
+        "duration": "2h 40m",
+        "stops": 0
+    },
+    {
+        "id": "F006",
+        "airline": "Air India",
+        "from": "Delhi",
+        "to": "Goa",
+        "price": 7200,
+        "duration": "2h 50m",
+        "stops": 0
+    },
+    {
+        "id": "F007",
+        "airline": "IndiGo",
+        "from": "Kolkata",
+        "to": "Mumbai",
+        "price": 4500,
+        "duration": "2h 45m",
+        "stops": 0
+    },
+    {
+        "id": "F008",
+        "airline": "Vistara",
+        "from": "Kolkata",
+        "to": "Mumbai",
+        "price": 5200,
+        "duration": "2h 50m",
+        "stops": 0
+    }
+]

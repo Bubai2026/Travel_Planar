@@ -1,0 +1,91 @@
+[
+    {
+        "id": "H001",
+        "name": "Goa Beach Resort",
+        "city": "Goa",
+        "price_per_night": 3500,
+        "stars": 4,
+        "rating": 4.3,
+        "location": "Calangute",
+        "amenities": [
+            "WiFi",
+            "Swimming Pool",
+            "Breakfast"
+        ],
+        "description": "A comfortable resort near Calangute Beach suitable for couples and families."
+    },
+    {
+        "id": "H002",
+        "name": "Sunset Paradise Goa",
+        "city": "Goa",
+        "price_per_night": 2800,
+        "stars": 3,
+        "rating": 4.1,
+        "location": "Baga",
+        "amenities": [
+            "WiFi",
+            "Breakfast"
+        ],
+        "description": "A budget-friendly hotel near Baga Beach with easy access to restaurants and nightlife."
+    },
+    {
+        "id": "H003",
+        "name": "Luxury Palm Goa",
+        "city": "Goa",
+        "price_per_night": 5500,
+        "stars": 5,
+        "rating": 4.7,
+        "location": "Candolim",
+        "amenities": [
+            "WiFi",
+            "Swimming Pool",
+            "Spa",
+            "Breakfast"
+        ],
+        "description": "A luxury resort in Candolim with premium facilities and a relaxing atmosphere."
+    },
+    {
+        "id": "H004",
+        "name": "Mumbai Central Hotel",
+        "city": "Mumbai",
+        "price_per_night": 4000,
+        "stars": 4,
+        "rating": 4.2,
+        "location": "Central Mumbai",
+        "amenities": [
+            "WiFi",
+            "Breakfast",
+            "Restaurant"
+        ],
+        "description": "A centrally located hotel with convenient access to major Mumbai attractions."
+    },
+    {
+        "id": "H005",
+        "name": "Mumbai Budget Stay",
+        "city": "Mumbai",
+        "price_per_night": 2200,
+        "stars": 3,
+        "rating": 4.0,
+        "location": "Andheri",
+        "amenities": [
+            "WiFi",
+            "Breakfast"
+        ],
+        "description": "An affordable hotel suitable for budget travelers visiting Mumbai."
+    },
+    {
+        "id": "H006",
+        "name": "Bengaluru Garden Hotel",
+        "city": "Bengaluru",
+        "price_per_night": 3000,
+        "stars": 4,
+        "rating": 4.4,
+        "location": "Central Bengaluru",
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Breakfast"
+        ],
+        "description": "A comfortable hotel near major attractions and business areas of Bengaluru."
+    }
+]
